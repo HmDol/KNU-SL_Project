@@ -1,13 +1,5 @@
 <div align="center">
 <h1>실시간 BMS 대시보드</h1>
-<!-- logo -->
-<img src="https://user-images.githubusercontent.com/80824750/208554611-f8277015-12e8-48d2-b2cc-d09d67f03c02.png" width="400"/>
-
-### Back-end Git Reamd.me Template ✅
-
-[<img src="https://img.shields.io/badge/-readme.md-important?style=flat&logo=google-chrome&logoColor=white" />]() [<img src="https://img.shields.io/badge/-tech blog-blue?style=flat&logo=google-chrome&logoColor=white" />]() [<img src="https://img.shields.io/badge/release-v0.0.0-yellow?style=flat&logo=google-chrome&logoColor=white" />]() 
-<br/> [<img src="https://img.shields.io/badge/프로젝트 기간-2022.12.10~2022.12.19-green?style=flat&logo=&logoColor=white" />]()
-
 </div> 
 
 ## 📝 소개
@@ -22,7 +14,6 @@
 - 기술적 이슈와 해결 과정
 - 프로젝트 팀원
 
-필요한 기술 스택에 대한 logo는 [skills 폴더](/skills/)에서 다운로드 받을 수 있습니다.
 
 <br />
 
@@ -47,7 +38,6 @@
 <br />
 
 ## ⚙ 기술 스택
-> skills 폴더에 있는 아이콘을 이용할 수 있습니다.
 ### Back-end
 <div>
 <img src="https://github.com/yewon-Noh/readme-template/blob/main/skills/Java.png?raw=true" width="80">
